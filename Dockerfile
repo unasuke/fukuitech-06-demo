@@ -7,4 +7,4 @@ COPY index.html /etc/h2o/index.html
 
 EXPOSE 3000
 
-CMD ["/usr/local/bin/h2o", "-c", "h2o.conf"]
+CMD ["/usr/local/bin/h2o", "-m", "master", "-c", "h2o.conf"]
