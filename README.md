@@ -25,7 +25,7 @@ $ docker run -p 3000:3000 fukuitech-06-demo
 ```
 
 ## 外部リンク
-- [unasuke/fukuitech-06](https://github.com/unasuke/fukuitech-06-demo)
+- [unasuke/fukuitech-06](https://github.com/unasuke/fukuitech-06)
 - [https://hub.docker.com/r/unasuke/fukuitech-06-demo/](https://hub.docker.com/r/unasuke/fukuitech-06-demo/)
 - [https://hub.docker.com/r/unasuke/h2o-alpine/](https://hub.docker.com/r/unasuke/h2o-alpine/)
 - [h2o-alpine(gist)](https://gist.github.com/unasuke/01d78fdd67658de22c2b91e00ba5e0d6)
